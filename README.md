@@ -1,4 +1,4 @@
-# CESI
+# Iris
 
 ### This program can encrypt and decrypt images with a secret pixel order that contains a hidden message
 
